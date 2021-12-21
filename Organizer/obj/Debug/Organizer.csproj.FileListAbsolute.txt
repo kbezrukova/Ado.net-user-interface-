@@ -1,0 +1,11 @@
+C:\Users\1\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe.config
+C:\Users\1\source\repos\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\1\source\repos\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.frmMain.resources
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.Properties.Resources.resources
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\1\source\repos\Organizer\Organizer\obj\Debug\Organizer.frmAdd.resources
